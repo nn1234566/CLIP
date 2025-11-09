@@ -1,7 +1,6 @@
 # CLIP Image-Text Retrieval System
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nn1234566/CLIP/blob/main/clip_retrieval.py)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nn1234566/CLIP/blob/main/CLIP_Image_Text_Retrieval.ipynb)
 一个基于OpenAI CLIP模型的多模态检索系统，实现文本到图像和图像到文本的双向检索。
 
 ## 项目亮点
